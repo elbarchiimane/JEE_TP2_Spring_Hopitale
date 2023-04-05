@@ -12,7 +12,7 @@
 <h3> Consulter un  patient </h3>
 <img src="captures/afficher_patient.png" />
 <h3> Chercher des patients </h3>
-<img src="captures/chercher_patients.png" />
+<img src="captures/chercher_patient.png" />
 <h3> Mettre à jour un patient  </h3>
 <img src="captures/update_patient.png" />
 <h3> supprimer un patient </h3>
