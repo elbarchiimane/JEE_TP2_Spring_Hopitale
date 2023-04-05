@@ -1,5 +1,6 @@
 # JEE_TP2_Spring_Hopitale
 <h2> Entité JPA Patient </h2>
+<img src="captures/patient.png" />
 <h3> Configuration de l'unité de persistance dans le fichier application.properties  </h3>
 <img src="captures/h2_v.png" />
 <h3> Création de l'interface JPA Repository basée sur Spring data </h3>
